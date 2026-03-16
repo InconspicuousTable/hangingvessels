@@ -1,0 +1,22 @@
+{
+	"ingredientPattern": "V",
+	"width": 1,
+	"height": 1,
+	"ingredients": {
+    		"V": {
+      			"type": "block",
+        		"code": "game:leaningessel",
+        		"quantity": 1
+		}
+
+	},
+	"output": {
+		"type": "block",
+		"code": "storagevessel-brown"
+	}
+	{
+		"type": "item",
+		"code": "game:firewood",
+        	"quantity": 2
+	}
+}

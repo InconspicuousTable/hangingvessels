@@ -1,0 +1,26 @@
+{
+	"ingredientPattern": "K,V",
+	"width": 1,
+	"height": 2,
+	"ingredients": {
+    		"V": {
+      			"type": "block",
+        		"code": "game:hangingvessel",
+        		"quantity": 1
+		}
+		"K": {
+			"type": "item",
+			"code": "game:knife-*",
+        		"istool": true
+		},
+
+	},
+	"output": {
+		"type": "block",
+		"code": "game:storagevessel-brown"
+	}
+	{
+		"type": "item",
+		"code": "game:firewood",
+        	"quantity": 2
+}
