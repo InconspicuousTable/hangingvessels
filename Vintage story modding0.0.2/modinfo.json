@@ -1,0 +1,8 @@
+{
+  "type": "content",
+  "modid": "hangingvessels",
+  "name": "Hanging Storage Vessels",
+  "authors": ["ConspicuousTable"],
+  "description": "Adds hanging storage vessels for vertical stacked vessels.",
+  "version": "0.0.2"
+}

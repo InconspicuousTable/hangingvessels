@@ -1,0 +1,10 @@
+{
+	"ingredientPattern": "V,F",
+	"width": 1,
+	"height": 2,
+	"ingredients": {
+		"V": { "type": "block", code: "game:storagevessel-*-fired", "quantity": 1 },
+		"F": { type: "item", code: "game:firewood", quantity: 2 },
+	},
+	"output": { "type": "block", code: "hangingvessels:leaningvessel" }
+}
