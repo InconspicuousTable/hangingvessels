@@ -1,0 +1,12 @@
+{
+	"ingredientPattern": "RVR,_F_",
+	"width": 3,
+	"height": 2,
+	"ingredients": {
+		"R": { type: "item", code: "game:rope", "quantity": 1 },
+    		"V": { "type": "block", code: "game:storagevessel-*-fired", "quantity": 1 },
+		"F": { type: "item", code: "game:firewood", "quantity": 2 },
+	},
+	"output": {"type": "block",code: "hangingvessels:hangingvessel"
+	}
+}
